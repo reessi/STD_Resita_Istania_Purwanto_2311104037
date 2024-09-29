@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727593696 source:c:\01_pengenalan_cpp_bagian_1\guided\guided\main.cpp
+	<stdio.h>
+	<iostream>
+
